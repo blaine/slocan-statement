@@ -1,0 +1,3 @@
+ignore: []
+url: slocan-statement.fission.app
+build: ./public
