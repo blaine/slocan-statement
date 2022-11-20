@@ -1,0 +1,129 @@
+Slocan Statement: Towards A Charter for the Fediverse
+
+
+
+The following is intended as a starting point, a first draft towards
+establishing a shared charter that would serve to protect, support, and enrich
+the nascent Fediverse.
+
+
+
+The federation of online services, known as “the Fediverse”, agree to the following:
+
+By operating a network that connects to the fediverse by way of recognizing and
+leveraging the freedoms of online identity and communication and agreeing to
+principles of data interchange:
+
+  We agree to maintain, in perpetuity, an open interface that ensures the
+continuation of these freedoms of online identity and communication in
+accordance with the principles of data interchange.
+
+  We agree that software and standards written to support federated systems will
+be published with licenses and agreements that require adherence to these
+principles.
+
+  We agree to obtain necessary license(s) from users in order to allow the
+redistribution of content created by members across the fediverse provided that
+correct attribution to the original creator is maintained.
+
+  We agree to neither federate nor provide services to any organization that,
+having agreed to these principles, later withdraws from this charter.
+
+In order to ensure that online communities have the autonomy to self-determine
+and individuals have the ability to freely communicate, free from the tendency
+of dominant nodes in the network to leverage network effects as a monopolizing
+strategy.
+
+
+
+Definitions
+
+1. The freedom of online identity – to use and present a federated online
+   identity (A "Name") to any federated system – is considered a fundamental right.
+
+  a. Organizations that grant names to individuals agree to do so in trust.
+
+  b. To the extent made possible by protocols or agreement, they will allow the
+     transfer of the management of an individual’s name to another federated
+     organization of the individual’s choosing.
+
+  c. They agree to make available to the best of their ability the facilities
+     associated with naming, in particular the ability to freely perform discovery of
+     the mechanisms for communication.
+
+2. The freedom of communication – the ability for individuals and communities to
+   share information between federated systems – is considered a fundamental
+   right.
+
+3. The principles of data interchange are as follows:
+
+  a. The protocols that enable and facilitate federated identity and federated
+     communication shall be agreed to by independent standards bodies and must
+     be free of legal obligations or copyright or patent claims.
+
+  b. Federated instances agree to conform to the standards in order to promote
+     the flow of communication, to the extent possible.
+
+  c. Neither (a) nor (b) prevent the creation of new standards or approaches to
+     identity or communication
+
+  d. As de-facto standards emerge, they shall be subject to and adhered to by
+     federated services and software per clause (1) and (2) of this section.
+
+
+
+Community Support
+
+In recognition of
+
+1. the importance of the wider fediverse
+
+2. the labour and costs associated with creating and maintaining federated
+   systems and standards 
+
+3. the ongoing need to defend the principles of federated communities
+
+commercial federated services that agree to this convention agree to tithe
+
+1. to wholly independent trusts, foundations, or non-profits whose charters are
+   to support the continued maintenance and development of code, policy and legal
+   structures associated with and in support of the fediverse in accordance with
+   this charter
+
+2. at the point of initially federating with the fediverse, an amount according
+   to the prevailing custom in the form of financial securities in the member
+   organization
+
+3. and at recurring intervals, an amount according to the prevailing custom, and
+   in consideration of the organization’s financial ability to contribute.
+
+4. This obligation should be construed to have fiduciary priority over
+   shareholders’ rights, as it is intended as a form of voluntary taxation in
+   support of the immense benefits conferred by participating in the Fediverse.
+
+
+
+Future Considerations
+
+In light of the many diverse possibilities afforded by the fediverse and the
+complex relationship between content created by individuals and
+community-generated datasets, this statement intentionally omits discussion of
+data portability, copyright, privacy, and any other jurisdictionally necessary
+questions of legal compliance.
+
+
+
+Caveats
+
+Nothing above should be construed to prevent federated communities from
+restricting or limiting federation in order to protect themselves or their
+members against abuse or to apply community standards. However, federated
+identities must be made available online according to the wishes of the
+individual, and the ability for any individuals to communicate using their
+assigned identifiers must not be restricted.
+
+
+
+Author
+
+Blaine Cook, blaine@mastodon.social, November 19, 2022.
